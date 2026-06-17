@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Tongji Graduate DOC Template"
+  short_description: "Review and repair Tongji graduate DOCX formatting."
+  default_prompt: "Review and repair this thesis DOCX against the Tongji graduate document template."

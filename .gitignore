@@ -1,0 +1,23 @@
+# Word and Office temporary files
+~$*
+*.tmp
+*.temp
+*.bak
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Rendered QA artifacts
+page_*.png
+contact_sheet*.png
+*.pdf.tmp
+
+# Local private thesis/workspace material
+*.docx
+*.doc
+*.pdf
+!references/*.md
+
+# Logs
+*.log
